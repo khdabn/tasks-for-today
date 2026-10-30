@@ -126,3 +126,7 @@ The application pages use plain CSS and do not require an npm build.
 
 The `.env` file is excluded from Git.
 Configure production credentials separately on the hosting server.
+
+## Live Website
+
+http://tasksbuen.fwh.is
